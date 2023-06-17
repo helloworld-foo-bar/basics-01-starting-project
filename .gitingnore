@@ -2,6 +2,6 @@
 
 .git
 
-/.replit
+.replit/
 
-/.replit.nix
+replit.nix
