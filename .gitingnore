@@ -1,4 +1,7 @@
 .config
-.replit
-.replit.nix
+
 .git
+
+/.replit
+
+/.replit.nix
